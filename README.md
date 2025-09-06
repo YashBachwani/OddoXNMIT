@@ -26,12 +26,29 @@ Built during the **NMIT Hackathon**, our mission is to **promote sustainable fas
 
 ## ⚙️ Installation & Setup  
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/YashBachwani/OddoXNMIT.git
-   cd OddoXNMIT
-2. **Install dependencies**
-  ```npm install
+Install dependencies:
 
-3.**Run the development server**
-  ```npm run dev
+npm install
+
+
+Run locally:
+
+npm run dev
+
+
+Visit:
+
+http://localhost:5173
+
+👨‍💻 Team
+
+Yash Bachwani – FrontEnd Developer
+Krupa Panchal - UI/UX Designer
+Jeet Pitale - Cyber Security
+
+📜 License
+
+This project was created for NMIT Hackathon 2025.
+Feel free to fork and contribute 🚀
+
+<p align="center"> <b style="color:orange">Made with ❤️ in SwapCircle</b> </p>
