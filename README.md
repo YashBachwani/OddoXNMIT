@@ -1,26 +1,55 @@
-# SwapCircle 👗♻️  
-<img src="/images/logo.png" alt="SwapCircle Logo" width="200" align="center"/>
+<h1 align="center">
+  <img src="./logo.png" alt="SwapCircle Logo" width="120"/><br/>
+  <b>SwapCircle</b> 👗♻️
+</h1>
 
-**SwapCircle** is a platform where you can **shop, swap, and sell pre-loved outfits & accessories** for every occasion—casual, formal, or traditional.  
-Built during the **NMIT Hackathon**, our mission is to **promote sustainable fashion** and reduce waste by encouraging clothes sharing and reusing. 🌍✨  
+<p align="center">
+  <i>Shop · Swap · Sell — Sustainable fashion for everyone</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-orange?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-orange?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-orange?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-orange?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Features  
-- 📸 **Upload up to 4 product images**  
-- ✍️ **Add product details** – description, price, condition, and category  
-- 📂 **Categories:** Jeans, T-shirts, Casual Dresses, Jackets, Accessories, Footwear, Bags, Traditional Outfits  
-- 🛒 **Browse & swap clothes** with others in the community  
-- 🔍 **Search and filter** products with ease  
-- 🎨 **Modern & clean UI** powered by Tailwind CSS  
+## ✨ What is SwapCircle?
+
+SwapCircle is a **fashion swapping platform** where you can:
+- 📸 Upload your clothes & accessories (up to 4 images per item)  
+- ✍️ Add details like price, description, condition, and category  
+- 🛍️ Browse listings from other users  
+- 🔄 Swap items and promote **eco-friendly fashion**  
 
 ---
 
-## 🛠 Tech Stack  
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js / Express.js (if applicable)  
-- **Database:** MongoDB / Firebase *(confirm your setup)*  
-- **Other Tools:** Git, Vercel/Netlify for deployment  
+## 🎨 Features
+
+- 👕 Wide **categories**: jeans, t-shirts, dresses, jackets, accessories, footwear, bags, traditional outfits  
+- 🛒 Simple & elegant **UI with orange theme**  
+- 🔍 Easy **search and filter** options  
+- 🌍 Built with a **community-first approach**  
+
+---
+
+## 🛠 Tech Stack
+
+- ⚡ **React.js** + **Vite**  
+- 🎨 **Tailwind CSS**  
+- 🗄️ **FireStore** (backend)  
+- 🛢️ **MongoDB / Firebase** (database)  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YashBachwani/OddoXNMIT.git
+   cd OddoXNMIT
 
 ---
 
