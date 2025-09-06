@@ -1,5 +1,5 @@
 SwapCircle 👗♻️
-<img src="./logo.png" alt="SwapCircle Logo" width="200" />
+<img src="/images/logo.png" alt="SwapCircle Logo" width="200" />
 
 SwapCircle is a platform where you can shop, swap, or sell pre-loved outfits and accessories for every occasion—casual, formal, or traditional.
 Built during the NMIT Hackathon, our goal is to promote sustainable fashion and reduce waste by encouraging clothes sharing and reusing.
