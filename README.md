@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./logo.png" alt="SwapCircle Logo" width="120"/><br/>
+  <img src="/images/logo.png" alt="SwapCircle Logo" width="120"/><br/>
   <b>SwapCircle</b> 👗♻️
 </h1>
 
