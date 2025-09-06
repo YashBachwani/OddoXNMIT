@@ -69,22 +69,17 @@ SwapCircle is a **fashion swapping platform** where you can:
 
 ---
 
-## 📸 Preview
-
-(Add screenshots or demo GIFs here)
-
----
-
 ## 👨‍💻 Team
 
-- **Yash Bachwani** – Developer & UI Designer  
-- (Add other contributors if any)
+- **Yash Bachwani** – FrontEnd Developer  
+- **Krupa Panchal** – UI/UX Designer
+- **Jeet Pitale** – Cyber Security
 
 ---
 
 ## 📜 License
 
-This project was created for **NMIT Hackathon 2025**.  
+This project was created for **NMIT Hackathon 2025 & SwapCircle**.  
 Feel free to fork and contribute 🚀
 
 ---
